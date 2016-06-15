@@ -8,7 +8,7 @@
 > S - Move Backwards <br>
 > D - Move Right <br>
 > A - Move Left <br>
-> Mouse Click - Shoot <br>
+> Mouse Click - Shoot<br>
 
 
 ![Alt text] (https://github.com/nicodelapena3/Space-Shooter/blob/master/screenshots/spaceshooter.jpg
